@@ -25,7 +25,7 @@ return {
 	version = '1.0.0',
     description = "object-oriented library written in Lua for the Luvit runtime environment.",
 	homepage = 'https://github.com/MegaPiggy/class',
-	tags = {'object', 'object-oriented', 'oriented', 'class'},
+	tags = {'object', 'object-oriented', 'oriented', 'class', "oop"},
 	license = 'MIT',
     author = { name = "MegaPiggy" },
 	files = {'**.lua'},
